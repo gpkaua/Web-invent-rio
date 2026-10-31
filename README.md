@@ -1,3 +1,4 @@
+🚀 Teste o sistema ao vivo: [Clique Aqui](https://web-invent-rio-hzsya96bnjtmcryprcnm9w.streamlit.app/)
 📦 AI-Driven Inventory System
 
   Este projeto é um sistema de gestão de estoque e precificação automática, desenvolvido sob a metodologia de AI-Driven Development. Atuei como arquiteto de
